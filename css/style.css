@@ -819,7 +819,7 @@ a:focus {
 }
 
 .info_section .info_social img {
-  width: 35px;
+  width: 100%;
   margin: 20px;
 }
 
