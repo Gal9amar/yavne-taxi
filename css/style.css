@@ -815,7 +815,7 @@ a:focus {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  padding: 20px;
+  padding: 20px 10px;
 }
 
 .info_section .info_social img {
