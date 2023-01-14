@@ -271,7 +271,8 @@ body {
 }
 
 .service_section .service_container .box .img-box {
-  height: 85px;
+  /* width: 370px; */
+  height: 300px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
