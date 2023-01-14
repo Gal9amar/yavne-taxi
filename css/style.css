@@ -70,12 +70,12 @@ body {
   background-image: url(../images/yavne-map2.png);
   background-size: cover;
 }
-/* .watertower {
+.watertower {
   min-height: 70vh;
   position: relative;
-  background-image: url(../images/yavne-map2.png);
-  background-size:auto;
-} */
+  background-image: url(../images/watertower.png);
+  background-size: cover;
+}
 
 .hero_area::before {
   content: "";
