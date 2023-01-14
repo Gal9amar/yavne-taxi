@@ -74,7 +74,7 @@ body {
   min-height: 70vh;
   position: relative;
   background-image: url(../images/watertower.png);
-  background-size: cover;
+  background-size:auto;
 }
 
 .hero_area::before {
