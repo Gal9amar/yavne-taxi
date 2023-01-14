@@ -7,5 +7,5 @@
         // Toggle the checked property
         randomCheckbox.checked = !randomCheckbox.checked;
     }
-setInterval(randomCheckbox, 2000);
+setInterval(randomCheckbox, 1000);
 
