@@ -595,7 +595,7 @@ input[type="checkbox"]:checked ~ div {
   display: block;
   position: fixed;
   left: -50px;
-  bottom: -55px;
+  bottom: 0px;
   visibility: hidden;
   background-color: transparent;
   width: 200px;
@@ -1113,9 +1113,10 @@ input[type="checkbox"]:checked ~ div {
 }
 /* ---------------------------------- */
 .wrapper {
+  display: block;
   position: fixed;
-  top: 670px;
-  left: -55px;
+  right: -53px;
+  bottom: 3px;
 }
 .coccoc-alo-ph-circle {
   width: 105px;
