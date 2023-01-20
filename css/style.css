@@ -157,12 +157,17 @@ body {
   font-size: 3rem;
 }
 
+.img-box{
+  display: flex;
+  justify-content: center;
+}
+
 .slider_section .box .img-box {
   margin: 0 7%;
 }
 
 .slider_section .box .img-box img {
-  width: 100%;
+  max-width: 100%;
 }
 
 .slider_section .box .btn-box {
@@ -184,7 +189,7 @@ body {
 }
 
 .slider_section .slider_form {
-  width: 400px;
+  width: 100%;
   padding: 25px;
   background-color: #282828;
   border-radius: 10px;
