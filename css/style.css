@@ -805,7 +805,7 @@ input[type="checkbox"]:checked ~ div {
   top: 70px;
   left: 70px;
   position: absolute;
-  background-image: url(https://360imagem.com/google/images/wpp-icon.png);
+  background-image: url(../images/wpp-icon.png);
   background-size: 40px 40px;
   background-color: rgba(30, 30, 30, 0.1);
   background-position: center center;
@@ -1197,9 +1197,8 @@ input[type="checkbox"]:checked ~ div {
   top: 73px;
   left: 73px;
   position: absolute;
-  background: rgba(30, 30, 30, 0.1)
-    url(https://drive.google.com/uc?id=1V3N2b79QjDWetC_ss9wI3c-xpWDymn9R)
-    no-repeat center center;
+  background: rgba(30, 30, 30, 0.1) url(../images/phone.png) no-repeat center
+    center;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
