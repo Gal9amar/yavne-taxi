@@ -396,7 +396,7 @@ body {
 /* end info section */
 /* footer section*/
 .footer_section {
-  background-color: #f7c621;
+  background-color: #000000;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -407,7 +407,7 @@ body {
 }
 
 .footer_section p {
-  color: #000000;
+  color: #ffffff;
   margin: 0 auto;
   text-align: center;
   padding: 20px 0;
@@ -415,7 +415,7 @@ body {
 }
 
 .footer_section a {
-  color: #000000;
+  color: #ffffff;
 }
 /*# sourceMappingURL=style.css.map */
 .animate-charcter {
