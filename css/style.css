@@ -454,14 +454,14 @@ body {
 
 svg {
   display: block;
-  font: 10rem "מוניות יבנה";
+  font: 12rem "מוניות יבנה";
   width: 100%;
   margin: 0 auto;
 }
 
 @media screen and (max-width: 767px) {
   svg {
-    font-size: 8rem;
+    font-size: 10rem;
   }
 }
 
