@@ -461,7 +461,7 @@ svg {
 
 @media screen and (max-width: 767px) {
   svg {
-    font-size: 10rem;
+    font-size: 14rem;
   }
 }
 
@@ -471,7 +471,7 @@ svg {
 }
 @media screen and (max-width: 767px) {
   .number{
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 }
 
